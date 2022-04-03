@@ -10,3 +10,6 @@
 [submodule "HECS.Strategies"]
 	path = HECS.Strategies
 	url = git@github.com:Brightori/HECSFrameworkStrategies.git
+[submodule "HECS.UnitySerialization"]
+	path = HECS.UnitySerialization
+	url = git@github.com:Brightori/HECSFramework.UnitySerialization.git
