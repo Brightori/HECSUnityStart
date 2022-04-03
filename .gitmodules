@@ -1,3 +1,6 @@
 [submodule "HECS.Core"]
 	path = HECS.Core
 	url = git@github.com:Brightori/HECSFramework.Core.git
+[submodule "HECS.Unity"]
+	path = HECS.Unity
+	url = git@github.com:Brightori/HECSFramework.Unity.git
