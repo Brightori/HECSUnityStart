@@ -7,3 +7,6 @@
 [submodule "HECS.Serialize"]
 	path = HECS.Serialize
 	url = git@github.com:Brightori/HECSFramework.Serialize.git
+[submodule "HECS.Strategies"]
+	path = HECS.Strategies
+	url = git@github.com:Brightori/HECSFrameworkStrategies.git
