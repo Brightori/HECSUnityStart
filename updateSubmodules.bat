@@ -1,2 +1,2 @@
 git submodule foreach --recursive git checkout main
-git submodule foreach --recursive git fetch --all
+git submodule foreach --recursive git pull --all
