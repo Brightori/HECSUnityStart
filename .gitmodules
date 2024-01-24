@@ -1,21 +1,21 @@
 [submodule "HECS.Core"]
 	path = HECS.Core
-	url = git@github.com:Brightori/HECSFramework.Core.git
+url=https://github.com/Brightori/HECSFramework.Core.git
 [submodule "HECS.Unity"]
 	path = HECS.Unity
-	url = git@github.com:Brightori/HECSFramework.Unity.git
+url=https://github.com/Brightori/HECSFramework.Unity.git
 [submodule "HECS.Serialize"]
 	path = HECS.Serialize
-	url = git@github.com:Brightori/HECSFramework.Serialize.git
+url=https://github.com/Brightori/HECSFramework.Serialize.git
 [submodule "HECS.Strategies"]
 	path = HECS.Strategies
-	url = git@github.com:Brightori/HECSFrameworkStrategies.git
+url=https://github.com/Brightori/HECSFrameworkStrategies.git
 [submodule "HECS.UnitySerialization"]
 	path = HECS.UnitySerialization
-	url = git@github.com:Brightori/HECSFramework.UnitySerialization.git
+url=https://github.com/Brightori/HECSFramework.UnitySerialization.git
 [submodule "HECS.Strategies.Unity"]
 	path = HECS.Strategies.Unity
-	url = git@github.com:Brightori/HECSFramework.Strategies.Unity.git
+url=https://github.com/Brightori/HECSFramework.Strategies.Unity.git
 [submodule "HECS.Strategies.Serialization"]
 	path = HECS.Strategies.Serialization
-	url = git@github.com:Brightori/HECSFramework.Strategies.Serialization.git
+url=https://github.com/Brightori/HECSFramework.Strategies.Serialization.git
